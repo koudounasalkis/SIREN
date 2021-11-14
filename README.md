@@ -1,4 +1,4 @@
-# Implicit Neural Representation with periodic activation functions (SIREN)
+# SIREN (Implicit Neural Representation with periodic activation functions)
 Final project for the Machine Learning and Artificial Intelligence exam at Politecnico di Torino about **Implicit Neural Representation with periodic activation functions (SIREN)**.
 
 ## Team members
@@ -23,7 +23,7 @@ All our code is in a Python Notebook format, you can explore it [here](https://g
 
 ## Folders structure
 ```
-\Implicit Neural Representation with periodic activation functions
+\SIREN
     \docs
         \papers         # papers we referred to  
         \delivery       # our final report, slides and other documents
